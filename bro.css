@@ -1,0 +1,21 @@
+.button{
+	
+	-fx-layout-height:50px;
+	-fx-background-color:white;
+}
+.button:selected{
+	-fx-background-color:#ffdddd;
+}
+.text-field{
+-fx-background-color:#eeeeee;
+}
+.menu-button{
+	-fx-background-color:white;
+}
+.list-view{
+	-fx-background-color:None;
+}
+.list-item{
+	-fx-background-color:None;
+}
+
